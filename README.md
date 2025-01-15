@@ -114,9 +114,6 @@ bookstore-app/
 - **State Management**: LocalStorage (for storing JWT and role)
 - **HTTP Client**: Axios
 
-## Screenshots
-Include screenshots of the application to showcase its UI and features.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
