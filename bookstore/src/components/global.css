@@ -1,0 +1,24 @@
+.home-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .product-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .product-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .product-item h2 {
+    margin: 0;
+  }
+  
+  .product-item p {
+    margin: 5px 0;
+  }
